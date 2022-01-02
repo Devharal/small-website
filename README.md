@@ -1,1 +1,1 @@
-# small-website
+# Build a website for javascript learning.
